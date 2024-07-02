@@ -13,18 +13,18 @@
   color: inherit;
   width: auto;
   user-select: none;
-  background-color: rgb(255, 255, 255);
+  background-color: #212121;
   border: 1px solid rgba(49, 51, 63, 0.2);
   cursor: pointer;
 }
 
 .st-copy-to-clipboard-btn:hover {
-  border-color: rgb(255, 75, 75);
-  color: rgb(255, 75, 75);
+  border-color: rgb(81, 146, 255);
+  color: rgb(81, 146, 255);
 }
 
 .st-copy-to-clipboard-btn:active {
-  border-color: rgb(255, 75, 75);
-  background-color: rgb(255, 75, 75);
+  border-color: rgb(81, 146, 255);
+  background-color: rgb(81, 146, 255);
   color: rgb(255, 255, 255);
 }
