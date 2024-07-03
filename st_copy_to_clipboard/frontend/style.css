@@ -13,7 +13,7 @@
   color: inherit;
   width: auto;
   user-select: none;
-  background-color: #212121;
+  background-color: rgb(33, 33, 33);
   border: 1px solid rgba(49, 51, 63, 0.2);
   cursor: pointer;
 }
